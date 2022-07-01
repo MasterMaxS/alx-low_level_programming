@@ -4,15 +4,16 @@
  *
  * main - Entry pint
  *
- * Return: Always 0 (Success)
+ * return: Always 0 (Success)
  */
 
 int main (void)
 
 {
-	Puts
+	puts
 	(
 	 "Programming is like building a multilingual puzzle\n"
-	)
-	Return (0);
+	);
+
+	return (0);
 }
